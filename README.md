@@ -1,8 +1,4 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Mateus-Batista12/a070c67d66139d7350248bc9afb839bd/raw/f2f8ad107f3f7a15805f4afafceaf0f7ca14d218/githubimage.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Batista</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
-
 - 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando React e TypeScript
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
